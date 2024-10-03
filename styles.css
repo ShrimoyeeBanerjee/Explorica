@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    color: #333;
+    color: #f7f1f1;
 }
 
 .container {
@@ -54,10 +54,9 @@ nav {
 }
 
 .hero {
-    background-image: url('https://via.placeholder.com/1200x500');
+    background-image: url('http://cdn.wallpapersafari.com/68/2/MShsNr.jpg');
     background-size: cover;
     background-position: center;
-    color: white;
     padding: 100px 0;
     text-align: center;
 }
